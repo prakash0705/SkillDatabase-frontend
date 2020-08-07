@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Skills-Database"
+    }
+  },
+  "defaultProject": "Skills-Database",
+  "cli": {
+    "analytics": "2dd7bf8b-8661-46ff-b934-89edd3398728"
+  }
 }
